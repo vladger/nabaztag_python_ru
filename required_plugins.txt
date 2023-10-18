@@ -1,0 +1,6 @@
+requests
+datetime
+holidays
+rss_parser
+asyncio
+pygismeteo
